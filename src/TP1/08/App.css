@@ -1,0 +1,45 @@
+.carrinho-de-compras {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f8f8f8;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.carrinho-de-compras h1 {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.carrinho-de-compras ul {
+    list-style-type: none;
+    padding: 0;
+    margin-bottom: 20px;
+}
+
+.carrinho-de-compras ul li {
+    background-color: #fff;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 4px;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.carrinho-de-compras ul li span {
+    font-size: 16px;
+    color: #555;
+}
+
+.carrinho-de-compras h2 {
+    text-align: right;
+    font-size: 20px;
+    color: #333;
+    border-top: 1px solid #ddd;
+    padding-top: 10px;
+}

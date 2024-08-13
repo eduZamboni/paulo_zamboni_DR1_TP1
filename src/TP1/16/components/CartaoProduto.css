@@ -1,0 +1,34 @@
+.cartao-produto {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 16px;
+    max-width: 300px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.cartao-produto-imagem {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+.cartao-produto-nome {
+    font-size: 18px;
+    margin: 12px 0 8px;
+    color: #333;
+}
+
+.cartao-produto-descricao {
+    font-size: 14px;
+    color: #666;
+    margin-bottom: 12px;
+}
+
+.cartao-produto-preco {
+    font-size: 16px;
+    font-weight: bold;
+    color: #000;
+}
