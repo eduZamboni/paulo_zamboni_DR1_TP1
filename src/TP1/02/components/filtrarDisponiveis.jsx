@@ -1,5 +1,3 @@
 export function filtrarDisponiveis(produtos) {
-    return produtos.filter(produto => produto.disponivel);
-  }
-
-  
+  return produtos.filter(produto => produto.disponivel);
+}
